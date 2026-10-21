@@ -330,5 +330,5 @@ This hands-on project strengthened my understanding of workflow automation, dyna
 
 **Project:** Automated Power BI PDF Distribution Using Power Automate
 
-**Author:** Your Name
+**Author:** Nagraj Baggon
 
